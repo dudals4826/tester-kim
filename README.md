@@ -1,4 +1,4 @@
 # tester-kim
 Test repository
 
-테스트중입니다.
+테스트가 완료되었습니다.
